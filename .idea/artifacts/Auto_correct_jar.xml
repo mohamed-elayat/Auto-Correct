@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Auto-correct:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Auto_correct_jar</output-path>
+    <root id="archive" name="Auto-correct.jar">
+      <element id="module-output" name="Auto-correct" />
+    </root>
+  </artifact>
+</component>
